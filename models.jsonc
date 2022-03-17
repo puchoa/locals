@@ -1,0 +1,191 @@
+// GENERATED FOR JSON TO DART MODEL
+[
+	// Useful links to work with this file:
+	// About jsonc: https://github.com/onury/jsonc
+	// Try jsonc: https://komkom.github.io
+	//
+	// To configure generator, go to Settings/Extensions/JSON To Dart Model
+	//
+	// Add your json objects here separated by commas.
+	// Note that you add class names to each object with key "__className":
+	// And avoid duplicate class names in this list for best results.
+	// FOR EXAMPLE:
+	/*
+
+	{
+		"__className": "UserPost", // <- The base class name of the object.
+		"userId": 1,
+		"id": 1, // To mark as required value, change "id" to "r@id".
+		"title": "Json To Dart Model", // To mark as a default value, change "title" to "d@title".
+		"body": "Json to Dart advanced..."
+	}
+
+	*/
+
+	{
+		"status": 1,
+		"code": "OK",
+		"data": [
+			{
+				"id": 42255,
+				"author_id": 11677,
+				"community_id": 992,
+				"text": "",
+				"title": "notify?",
+				"liked_by_us": false,
+				"commented_by_us": false,
+				"bookmarked": false,
+				"timestamp": 1647379839,
+				"total_post_views": 0,
+				"is_blured": false,
+				"author_name": "11677",
+				"author_avatar_extension": "png",
+				"author_avatar_url": "https://cdn.rr-qa.seasteaddigital.com/images/avatars/11677/11677_7t3pt14o7ori77f_thumb.png"
+			},
+			{
+				"id": 42248,
+				"author_id": 11677,
+				"community_id": 992,
+				"text": "",
+				"title": "fafafafafaf",
+				"liked_by_us": false,
+				"commented_by_us": false,
+				"bookmarked": false,
+				"timestamp": 1647379454,
+				"total_post_views": 0,
+				"is_blured": false,
+				"author_name": "11677",
+				"author_avatar_extension": "png",
+				"author_avatar_url": "https://cdn.rr-qa.seasteaddigital.com/images/avatars/11677/11677_7t3pt14o7ori77f_thumb.png"
+			},
+			{
+				"id": 42238,
+				"author_id": 11677,
+				"community_id": 992,
+				"text": "",
+				"title": "ffff",
+				"liked_by_us": false,
+				"commented_by_us": false,
+				"bookmarked": false,
+				"timestamp": 1647379222,
+				"total_post_views": 0,
+				"is_blured": false,
+				"author_name": "11677",
+				"author_avatar_extension": "png",
+				"author_avatar_url": "https://cdn.rr-qa.seasteaddigital.com/images/avatars/11677/11677_7t3pt14o7ori77f_thumb.png"
+			},
+			{
+				"id": 42237,
+				"author_id": 11677,
+				"community_id": 992,
+				"text": "",
+				"title": "fsfsfsf",
+				"liked_by_us": false,
+				"commented_by_us": false,
+				"bookmarked": false,
+				"timestamp": 1647379075,
+				"total_post_views": 0,
+				"is_blured": false,
+				"author_name": "11677",
+				"author_avatar_extension": "png",
+				"author_avatar_url": "https://cdn.rr-qa.seasteaddigital.com/images/avatars/11677/11677_7t3pt14o7ori77f_thumb.png"
+			},
+			{
+				"id": 42283,
+				"author_id": 11677,
+				"community_id": 992,
+				"text": "atatatatttata",
+				"title": "tatatatatat",
+				"liked_by_us": false,
+				"commented_by_us": false,
+				"bookmarked": false,
+				"timestamp": 1647353718,
+				"total_post_views": 1,
+				"is_blured": false,
+				"author_name": "11677",
+				"author_avatar_extension": "png",
+				"author_avatar_url": "https://cdn.rr-qa.seasteaddigital.com/images/avatars/11677/11677_7t3pt14o7ori77f_thumb.png"
+			},
+			{
+				"id": 42281,
+				"author_id": 20,
+				"community_id": 992,
+				"text": "14321432143214",
+				"title": "14321432143",
+				"liked_by_us": false,
+				"commented_by_us": false,
+				"bookmarked": false,
+				"timestamp": 1647351301,
+				"total_post_views": 1,
+				"is_blured": false,
+				"author_name": "developer",
+				"author_avatar_extension": "png",
+				"author_avatar_url": "https://cdn.rr-qa.seasteaddigital.com/images/avatars/20/20_w18uwyj6t1ymytj_thumb.png"
+			},
+			{
+				"id": 42280,
+				"author_id": 20,
+				"community_id": 992,
+				"text": "14312432143214",
+				"title": "1423124321432143",
+				"liked_by_us": false,
+				"commented_by_us": false,
+				"bookmarked": false,
+				"timestamp": 1647350453,
+				"total_post_views": 3,
+				"is_blured": false,
+				"author_name": "developer",
+				"author_avatar_extension": "png",
+				"author_avatar_url": "https://cdn.rr-qa.seasteaddigital.com/images/avatars/20/20_w18uwyj6t1ymytj_thumb.png"
+			},
+			{
+				"id": 42279,
+				"author_id": 11677,
+				"community_id": 992,
+				"text": "livestream notif test",
+				"title": "livestream notif test",
+				"liked_by_us": false,
+				"commented_by_us": false,
+				"bookmarked": false,
+				"timestamp": 1647346469,
+				"total_post_views": 1,
+				"is_blured": false,
+				"author_name": "11677",
+				"author_avatar_extension": "png",
+				"author_avatar_url": "https://cdn.rr-qa.seasteaddigital.com/images/avatars/11677/11677_7t3pt14o7ori77f_thumb.png"
+			},
+			{
+				"id": 42278,
+				"author_id": 11677,
+				"community_id": 992,
+				"text": "new default post test",
+				"title": "new default post test",
+				"liked_by_us": false,
+				"commented_by_us": false,
+				"bookmarked": false,
+				"timestamp": 1647343602,
+				"total_post_views": 0,
+				"is_blured": false,
+				"author_name": "11677",
+				"author_avatar_extension": "png",
+				"author_avatar_url": "https://cdn.rr-qa.seasteaddigital.com/images/avatars/11677/11677_7t3pt14o7ori77f_thumb.png"
+			},
+			{
+				"id": 42276,
+				"author_id": 11677,
+				"community_id": 992,
+				"text": "new default post test",
+				"title": "new default post test",
+				"liked_by_us": false,
+				"commented_by_us": false,
+				"bookmarked": false,
+				"timestamp": 1647343482,
+				"total_post_views": 0,
+				"is_blured": false,
+				"author_name": "11677",
+				"author_avatar_extension": "png",
+				"author_avatar_url": "https://cdn.rr-qa.seasteaddigital.com/images/avatars/11677/11677_7t3pt14o7ori77f_thumb.png"
+			}
+		]
+	}
+]
